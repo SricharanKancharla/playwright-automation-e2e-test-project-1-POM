@@ -1,0 +1,18 @@
+[{
+    "state": "valid Credentials",
+    "mail": "starktony@gmail.com",
+    "password": "Ironman@3000",
+    "alert": "Login Successfully"
+},
+{
+    "state": "invalid Password",
+    "mail": "starktony@gmail.com",
+    "password": "Abcd@123",
+    "alert": "Incorrect email or password."
+},
+{
+    "state": "invalid Credentials",
+    "mail": "thanos@gmail.com" ,
+    "password": "Abcd@123",
+    "alert": "Incorrect email or password."
+}]
