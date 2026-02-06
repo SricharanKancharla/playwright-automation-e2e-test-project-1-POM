@@ -1,0 +1,30 @@
+{
+    "login":[{
+        "state": "valid Credentials",
+        "mail": "starktony@gmail.com",
+        "password": "Ironman@3000",
+        "alert": "Login Successfully"
+    },
+    {
+        "state": "invalid Password",
+        "mail": "starktony@gmail.com",
+        "password": "Abcd@123",
+        "alert": "Incorrect email or password."
+    },
+    {
+        "state": "invalid Credentials",
+        "mail": "thanos@gmail.com" ,
+        "password": "Abcd@123",
+        "alert": "Incorrect email or password."
+    }],
+    
+    "productName" : "ZARA COAT 3",
+    "addedtocart": "Product Added To Cart",
+    "fillcountry": "ind",
+    "country": " India",
+    "cvv": "123",
+    "expiryYear": "27",
+    "name": "Tony Stark",
+    "coupon": "rahulshettyacademy"
+
+}
