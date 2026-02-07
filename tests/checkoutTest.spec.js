@@ -2,7 +2,7 @@ const {test,expect} = require("@playwright/test");
 const POManager = require("../pageobjects/PO_manager");
 const dataSet = require("../test-data/Data.json");
 
-test("Ckeckout from cart", async ({page})=>
+test("Checkout from cart", async ({page})=>
 {
     const credentials = dataSet.login[0]
 
